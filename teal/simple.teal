@@ -1,0 +1,4 @@
+#pragma version 2
+// Simple TEAL program that always returns 1 (approve)
+int 1
+return
